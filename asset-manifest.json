@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4bd5628.css",
+    "main.js": "/static/js/main.91f2e434.js",
+    "static/js/453.1784d781.chunk.js": "/static/js/453.1784d781.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/hero-mobile.svg": "/static/media/hero-mobile.0b8ffd7f76b54883c0fc.svg",
+    "static/media/circle-scatter-haikei.svg": "/static/media/circle-scatter-haikei.980af0d6785ffca30424.svg",
+    "main.f4bd5628.css.map": "/static/css/main.f4bd5628.css.map",
+    "main.91f2e434.js.map": "/static/js/main.91f2e434.js.map",
+    "453.1784d781.chunk.js.map": "/static/js/453.1784d781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4bd5628.css",
+    "static/js/main.91f2e434.js"
+  ]
+}
